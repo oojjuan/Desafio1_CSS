@@ -143,21 +143,20 @@ body {
     margin: auto auto auto 200px;
     text-shadow: 4px 3px #33A8DB;
 
-
     font-size: 40px;
     font-weight: bolder;
     text-transform: lowercase;
 }
 
 #professional-challenges {
-    width: 100%;
+    width: 800px;
     height: 820px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
     text-align: center;
-
+    margin: 0 auto;
 }
 #professional-challenges h2 {
     font-size: 2rem;
